@@ -5,26 +5,28 @@ Esse repositório vai acompanhar vocês até o final do curso, para mantermos a 
 ```
 .
 ├── modulo1
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
+│   ├── Semana 1 - Introdução a JavaScript
+│   ├── Semana 2 - Tópicos de JavaScript
+│   ├── Semana 3 - Revisão de JS, HTML e CSS 
+|   ├── Semana 4 - CSS 
+|   └── Projeto - Landing Page 
 |
 ├── modulo2
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
+│   ├── Semana 5 - Introdução ao React
+│   ├── Semana 6 - Componentes React 
+│   ├── Semana 7 - Conceitos de Networking
+│   ├── Semana 8 - Projeto Frontend Web I
+│   └── Projeto - LabeNinjas
 |
 ├── modulo3
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
+│   ├── Semana 9 - Introdução a Hooks
+│   ├── Projeto - Astromatch
+│   ├── Semana 10 - Features de Frontend
+│   ├── Projeto - LabeX
+│   ├── Semana 11 - Estado Global
+│   ├── Projeto - Pokédex
+│   ├── Semana 13 - Projeto Frontend Web Final
+│   └── Projeto - LabeFoods
 |
 .
 ```
